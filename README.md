@@ -79,6 +79,23 @@ __Zarif Khan__:
 Implemented FloorNode communication: Initialize sockets on unspecified ports, Floor Registration, Floor Pickup Request, Elevator Events.
 Documentation: Floor Sequence Diagram
 
+### Iteration 4
+
+__Hamza Alsarakbi__:
+Finalized: System Design Planning, Completed UI elements of the project, finalized `ElevatorNode`, Final Project Report documentation, Project Class Diagram
+
+__Mahad Mohamed Yonis__:
+Finalized: `FloorNodeTest`, `ElevatorNode` Test, `SchedulerControllerTest`, `InstructionTest`, `StateTests` refinements
+
+__Arun Karki__:
+Finalized: `FloorNode`, `ElevatorNode`, README file, `ElevatorSubsystem` Sequence Diagram. SchedulerSubsystem Sequence Diagram, FloorSubsystem Sequence Diagram, Project Class Diagram
+
+__Nabeel Azard__:
+Finalized: `ElevatorNode`, `SchedulerSystem`, README file, Final Project Report Documentation, System Design Planning
+
+__Zarif Khan__:
+Finalized: `FloorNode`, `ElevatorNode`, README file, ElevatorSubsystem Sequence Diagram. SchedulerSubsystem Sequence Diagram, FloorSubsystem Sequence Diagram, Project Class Diagram
+
 ## MIT License
 
 Copyright (c) 2023 [Nabeel Azard, Mahad Mohamed Yonis, Hamza Alsarakbi, Zarif Khan, Arun Karki]
