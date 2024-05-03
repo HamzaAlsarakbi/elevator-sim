@@ -30,7 +30,7 @@ This project implements a simulated elevator control system designed for efficie
 
 ## Credits
 
-### Ieration 1
+### Iteration 1
 
 __Mahad Mohamed Yonis__: Co-author of README file. Author of all methods in `FloorSubsystemTest`, `SchedulerSubsystemTest`, `ElevatorNodeTest` classes. Author of methods `doorOpen()`, `doorClose()`, `peopleLoad()`, `peopleUnload()` methods in the `ElevatorNode` class.
 
